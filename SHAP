@@ -1,1 +1,0 @@
-# NNI I am trying to use SHAP for explainability on but have challenges with cmd 15 where  the column i am defining is not able to call, but rather gives me a str object not callable
